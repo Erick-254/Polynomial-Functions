@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomialFunctions", "PolinomialFunctions\PolynomialFunctions.csproj", "{AEC13595-D1C7-4E47-93D9-C87F6CE706EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9CD6760D-E181-4FCD-9328-C22959454AC6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC13595-D1C7-4E47-93D9-C87F6CE706EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC13595-D1C7-4E47-93D9-C87F6CE706EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC13595-D1C7-4E47-93D9-C87F6CE706EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC13595-D1C7-4E47-93D9-C87F6CE706EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D88940E-F7B6-4390-B0AD-B07954E08F2B}
+	EndGlobalSection
+EndGlobal

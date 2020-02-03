@@ -1,0 +1,11 @@
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\obj\Debug\netcoreapp3.1\PolynomialFunctions.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\obj\Debug\netcoreapp3.1\PolynomialFunctions.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\obj\Debug\netcoreapp3.1\PolynomialFunctions.AssemblyInfo.cs
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.exe
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.deps.json
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.runtimeconfig.json
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.dll
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\bin\Debug\netcoreapp3.1\PolynomialFunctions.pdb
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\obj\Debug\netcoreapp3.1\PolynomialFunctions.dll
+C:\Users\HOME\source\repos\PolinomialFunctionsTask3ErickRotich\PolinomialFunctions\obj\Debug\netcoreapp3.1\PolynomialFunctions.pdb
